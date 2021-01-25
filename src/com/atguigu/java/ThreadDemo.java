@@ -2,7 +2,7 @@ package com.atguigu.java;
 
 /**
  * 练习：创建两个分线程，其中一个线程遍历100以内偶数，拧一个线程遍历100以内奇数
- * @author paipai
+ * @author paipai 黑黑黑
  * @create 2021-01-21 17:59
  */
 public class ThreadDemo {
